@@ -1,4 +1,4 @@
 # Hello-Ireland
-L00118918
-Brenda Kachidza
-Build great things
+L00118918.
+Jenkins,
+Build great things.
